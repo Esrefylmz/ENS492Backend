@@ -9,7 +9,7 @@ namespace AirQuality.Controllers
 { 
 
     [ApiController]
-    [Route("api/user/[controller]")]
+    [Route("api/[controller]")]
     public class UserController: ControllerBase
 	{
         private readonly Ens4912AirqualityContext? _context;
@@ -54,6 +54,38 @@ namespace AirQuality.Controllers
                 }).FirstOrDefaultAsync(s => s.Mail == newUser.Mail);
             }
 
+            else
+            {
+                return null;
+            }
+
+        }
+
+
+        [HttpPost("LoginUser")]
+        public async Task<HomeUser> UserLogin(UserLoginInfo userToLogIn)
+        {
+            HomeUser currentUser = await _context.HomeUsers.Select(s => new HomeUser
+            {
+                userId = s.userId,
+                HomeId = s.HomeId,
+                Username = s.Username,
+                Mail = s.Mail,
+                Password = s.Password,
+            }).FirstOrDefaultAsync(s => s.Mail == userToLogIn.Mail);
+
+
+            if (currentUser == null)
+            {
+                return null;
+            }
+
+            else if (currentUser.Password == userToLogIn.Password)
+            {
+                currentUser.Password = null;
+
+                return currentUser;
+            }
             else
             {
                 return null;
