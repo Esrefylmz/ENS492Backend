@@ -166,11 +166,13 @@ public partial class Ens4912AirqualityContext : DbContext
 
         modelBuilder.Entity<HomeUser>(entity =>
         {
-            entity.HasKey(e => e.Usermail).HasName("PRIMARY");
+            entity.HasKey(e => e.userId).HasName("PRIMARY");
 
-            entity.HasIndex(e => e.HomeId, "HomeUsers_fk0");
 
-            entity.Property(e => e.Usermail)
+            entity.Property(e => e.userId)
+                .HasColumnType("int(12)")
+                .HasColumnName("userID");
+            entity.Property(e => e.Mail)
                 .HasMaxLength(32)
                 .IsFixedLength()
                 .HasColumnName("usermail");
@@ -181,18 +183,10 @@ public partial class Ens4912AirqualityContext : DbContext
                 .HasMaxLength(32)
                 .IsFixedLength()
                 .HasColumnName("password");
-            entity.Property(e => e.UserType)
-                .HasMaxLength(32)
-                .IsFixedLength()
-                .HasColumnName("userType");
             entity.Property(e => e.Username)
                 .HasMaxLength(32)
                 .IsFixedLength()
                 .HasColumnName("username");
-
-            entity.HasOne(d => d.Home).WithMany(p => p.HomeUsers)
-                .HasForeignKey(d => d.HomeId)
-                .HasConstraintName("HomeUsers_fk0");
         });
 
         modelBuilder.Entity<Room>(entity =>
