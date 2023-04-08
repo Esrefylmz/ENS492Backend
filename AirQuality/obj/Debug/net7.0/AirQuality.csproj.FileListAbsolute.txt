@@ -1,0 +1,270 @@
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\appsettings.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\AirQuality.exe
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\AirQuality.deps.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\AirQuality.runtimeconfig.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\AirQuality.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\AirQuality.pdb
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\comerr64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\gssapi64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\krb5_64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\krbcc64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.csproj.AssemblyReference.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.AssemblyInfoInputs.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.AssemblyInfo.cs
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.AirQuality.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.build.AirQuality.props
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AirQuality.props
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AirQuality.props
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\scopedcss\bundle\AirQuality.styles.css
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.csproj.CopyComplete
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\refint\AirQuality.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.pdb
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\AirQuality.genruntimeconfig.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\.Net Core Web API\AirQuality\AirQuality\obj\Debug\net7.0\ref\AirQuality.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\appsettings.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\AirQuality.exe
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\AirQuality.deps.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\AirQuality.runtimeconfig.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\AirQuality.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\AirQuality.pdb
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\comerr64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\gssapi64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\krb5_64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\krbcc64.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.csproj.AssemblyReference.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.AssemblyInfoInputs.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.AssemblyInfo.cs
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.AirQuality.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.build.AirQuality.props
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AirQuality.props
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AirQuality.props
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\scopedcss\bundle\AirQuality.styles.css
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.csproj.CopyComplete
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\refint\AirQuality.dll
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.pdb
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\AirQuality.genruntimeconfig.cache
+C:\Users\Mehmet Faruk\OneDrive - sabanciuniv.edu\Masaüstü\ENS492Backend-main\AirQuality\obj\Debug\net7.0\ref\AirQuality.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\appsettings.Development.json
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\appsettings.json
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\AirQuality.exe
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\AirQuality.deps.json
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\AirQuality.runtimeconfig.json
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\AirQuality.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\AirQuality.pdb
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Azure.Core.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Azure.Identity.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Google.Protobuf.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Humanizer.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.OpenApi.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Mono.TextTemplating.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\MySql.Data.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\ZstdNet.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\comerr64.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\gssapi64.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\k5sprt64.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\krb5_64.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\krbcc64.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\MySqlConnector.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.CodeDom.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.Drawing.Common.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.Memory.Data.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.Runtime.Caching.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.Security.Permissions.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\System.Windows.Extensions.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Backend\ENS492Backend\AirQuality\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.csproj.AssemblyReference.cache
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.GeneratedMSBuildEditorConfig.editorconfig
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.AssemblyInfoInputs.cache
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.AssemblyInfo.cs
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.csproj.CoreCompileInputs.cache
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.MvcApplicationPartsAssemblyInfo.cs
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.MvcApplicationPartsAssemblyInfo.cache
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.AirQuality.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.build.AirQuality.props
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AirQuality.props
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AirQuality.props
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\staticwebassets.pack.json
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\staticwebassets.build.json
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\staticwebassets.development.json
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\scopedcss\bundle\AirQuality.styles.css
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.csproj.CopyComplete
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.dll
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\refint\AirQuality.dll
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.pdb
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\AirQuality.genruntimeconfig.cache
+d:\Backend\ENS492Backend\AirQuality\obj\Debug\net7.0\ref\AirQuality.dll
