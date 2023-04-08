@@ -64,6 +64,31 @@ namespace AirQuality.Controllers
             }
         }
 
+        //
+        [HttpGet("GetBuildingByCompanyId")]
+        public async Task<ActionResult<IEnumerable<DTOBuilding>>> GetBuildingByCompanyId(int Id)
+        {
+            var List = await _context.Buildings
+                .Where(s => s.CompanyId == Id)
+                .Select(s => new DTOBuilding
+                {
+                    BuildingId = s.BuildingId,
+                    Name = s.Name,
+                    CompanyId = s.CompanyId
+                })
+                .ToListAsync();
+
+            if (List.Count < 1)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return List;
+            }
+        }
+
+
         // POST api/<CRUDController>
         [HttpPost("PostBuilding")]
         public async Task<ActionResult<DTOBuilding>> PostBuilding(DTOBuilding Building)

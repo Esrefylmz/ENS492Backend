@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Backend\\ENS492Backend\\AirQuality\\AirQuality.csproj": {}
+    "d:\\ENS492Backend\\AirQuality\\AirQuality.csproj": {}
   },
   "projects": {
-    "d:\\Backend\\ENS492Backend\\AirQuality\\AirQuality.csproj": {
+    "d:\\ENS492Backend\\AirQuality\\AirQuality.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Backend\\ENS492Backend\\AirQuality\\AirQuality.csproj",
+        "projectUniqueName": "d:\\ENS492Backend\\AirQuality\\AirQuality.csproj",
         "projectName": "AirQuality",
-        "projectPath": "d:\\Backend\\ENS492Backend\\AirQuality\\AirQuality.csproj",
-        "packagesPath": "C:\\Users\\yetki\\.nuget\\packages\\",
-        "outputPath": "d:\\Backend\\ENS492Backend\\AirQuality\\obj\\",
+        "projectPath": "d:\\ENS492Backend\\AirQuality\\AirQuality.csproj",
+        "packagesPath": "C:\\Users\\esref\\.nuget\\packages\\",
+        "outputPath": "d:\\ENS492Backend\\AirQuality\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yetki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\esref\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
