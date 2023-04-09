@@ -54,35 +54,32 @@ namespace AirQuality.Controllers
 
         // GET api/<CompanySensorsController>/5
         [HttpGet("GetCompanySensorById")]
-        public async Task<ActionResult<DTOCompanySensor>> GetCompanySensorById(int Id)
+        public async Task<ActionResult<List<DTOCompanySensor>>> GetCompanySensorById(int Id)
         {
-            DTOCompanySensor sensor = await _context.CompanySensors.Select(
-                s => new DTOCompanySensor
+            var sensors = await _context.CompanySensors
+                .Where(s => s.CompanyId == Id)
+                .Select(s => new DTOCompanySensor
                 {
                     SoftId = s.SoftId,
-
                     MacId = s.MacId,
-
                     CompanyId = s.CompanyId,
-
                     RoomId = s.RoomId,
-
                     LocationInfo = s.LocationInfo,
-
                     RoomName = s.RoomName,
+                    BuildingName = s.BuildingName
+                })
+                .ToListAsync();
 
-                    BuildingName = s.BuildingName,
-                }).FirstOrDefaultAsync(s => s.SoftId == Id);
-
-            if (sensor == null)
+            if (sensors == null || sensors.Count == 0)
             {
                 return NotFound();
             }
             else
             {
-                return sensor;
+                return sensors;
             }
         }
+
 
         // POST api/<CompanySensorsController>
         [HttpPost("PostCompanySensor")]
