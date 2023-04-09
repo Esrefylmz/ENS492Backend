@@ -7,7 +7,7 @@ public partial class CompanySensor
 {
     public int SoftId { get; set; }
 
-    public int MacId { get; set; }
+    public string MacId { get; set; }
 
     public int CompanyId { get; set; }
 

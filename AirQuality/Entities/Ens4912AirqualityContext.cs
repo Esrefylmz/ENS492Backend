@@ -84,7 +84,8 @@ public partial class Ens4912AirqualityContext : DbContext
                 .IsFixedLength()
                 .HasColumnName("locationInfo");
             entity.Property(e => e.MacId)
-                .HasColumnType("int(12)")
+                .HasMaxLength(32)
+                .IsFixedLength()
                 .HasColumnName("macID");
             entity.Property(e => e.RoomId)
                 .HasColumnType("int(12)")
