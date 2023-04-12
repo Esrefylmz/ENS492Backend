@@ -51,7 +51,7 @@ namespace AirQuality.Controllers
 
         // POST api/<RoomsController>
         [HttpPost("PostRoom")]
-        public async Task<ActionResult<DTORoom>> PostBuilding(DTORoom Room)
+        public async Task<ActionResult<DTORoom>> PostRoom(DTORoom Room)
         {
             var entity = new Room()
             {
