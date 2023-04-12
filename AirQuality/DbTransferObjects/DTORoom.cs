@@ -10,6 +10,5 @@ namespace AirQuality.DbTransferObjects
 
         public int BuildingId { get; set; }
 
-        public virtual Building Building { get; set; } = null!;
     }
 }

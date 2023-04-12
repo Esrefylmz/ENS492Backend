@@ -10,6 +10,5 @@ namespace AirQuality.DbTransferObjects
 
         public string Location { get; set; } = null!;
 
-        public virtual Home Home { get; set; } = null!;
     }
 }

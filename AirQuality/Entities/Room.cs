@@ -11,5 +11,4 @@ public partial class Room
 
     public int BuildingId { get; set; }
 
-    public virtual Building Building { get; set; } = null!;
 }
