@@ -21,7 +21,7 @@ namespace AirQuality.Controllers
         }
         // GET: api/<CompanySensorsController>
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<DTOCompanySensor>>> GetBuildings()
+        public async Task<ActionResult<IEnumerable<DTOCompanySensor>>> GetCompanySensors()
         {
             var List = await _context.CompanySensors.Select(
                 s => new DTOCompanySensor
@@ -36,9 +36,7 @@ namespace AirQuality.Controllers
 
                     LocationInfo = s.LocationInfo,
 
-                    RoomName = s.RoomName,
-
-                    BuildingName = s.BuildingName,
+                    BuildingId = s.BuildingId,
 
                 }).ToListAsync();
 
@@ -53,8 +51,8 @@ namespace AirQuality.Controllers
         }
 
         // GET api/<CompanySensorsController>/5
-        [HttpGet("GetCompanySensorById")]
-        public async Task<ActionResult<List<DTOCompanySensor>>> GetCompanySensorById(int Id)
+        [HttpGet("GetCompanySensorByCompanyId")]
+        public async Task<ActionResult<List<DTOCompanySensor>>> GetCompanySensorByCompanyId(int Id)
         {
             var sensors = await _context.CompanySensors
                 .Where(s => s.CompanyId == Id)
@@ -65,8 +63,7 @@ namespace AirQuality.Controllers
                     CompanyId = s.CompanyId,
                     RoomId = s.RoomId,
                     LocationInfo = s.LocationInfo,
-                    RoomName = s.RoomName,
-                    BuildingName = s.BuildingName
+                    BuildingId= s.BuildingId,
                 })
                 .ToListAsync();
 
@@ -97,9 +94,7 @@ namespace AirQuality.Controllers
 
                 LocationInfo = Sensor.LocationInfo,
 
-                RoomName = Sensor.RoomName,
-
-                BuildingName = Sensor.BuildingName,
+                BuildingId = Sensor.BuildingId,
             };
             _context.CompanySensors.Add(entity);
             await _context.SaveChangesAsync();
@@ -121,9 +116,7 @@ namespace AirQuality.Controllers
 
             entity.LocationInfo = sensor.LocationInfo;
 
-            entity.RoomName = sensor.RoomName;
-
-            entity.BuildingName = sensor.BuildingName;
+            entity.BuildingId = sensor.BuildingId;
 
 
             await _context.SaveChangesAsync();

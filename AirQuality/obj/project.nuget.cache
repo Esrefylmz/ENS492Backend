@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vuLZclY4hDpmewh1vu1vhCsdz+Jsl4Sg5IZ3IxPELC8wrPALyFTT2uOeeKB0QP0AILqCXpIhEGSIfYo0uCIcFw==",
+  "dgSpecHash": "PnCBAJ8kZCSpYm3ACYWbfe8oXMhFuH5iWLUDQczlq6S9p7mwCTkAXY6XLw0g9GgiSme5OhhkPBXZBiYNhe1MNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\Yeni klasör\\ENS492Backend\\AirQuality\\AirQuality.csproj",
+  "projectFilePath": "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\backend\\ENS492Backend\\AirQuality\\AirQuality.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehmet Faruk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mehmet Faruk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\Yeni klasör\\ENS492Backend\\AirQuality\\AirQuality.csproj": {}
+    "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\backend\\ENS492Backend\\AirQuality\\AirQuality.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\Yeni klasör\\ENS492Backend\\AirQuality\\AirQuality.csproj": {
+    "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\backend\\ENS492Backend\\AirQuality\\AirQuality.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\Yeni klasör\\ENS492Backend\\AirQuality\\AirQuality.csproj",
+        "projectUniqueName": "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\backend\\ENS492Backend\\AirQuality\\AirQuality.csproj",
         "projectName": "AirQuality",
-        "projectPath": "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\Yeni klasör\\ENS492Backend\\AirQuality\\AirQuality.csproj",
+        "projectPath": "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\backend\\ENS492Backend\\AirQuality\\AirQuality.csproj",
         "packagesPath": "C:\\Users\\Mehmet Faruk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\Yeni klasör\\ENS492Backend\\AirQuality\\obj\\",
+        "outputPath": "C:\\Users\\Mehmet Faruk\\OneDrive - sabanciuniv.edu\\Masaüstü\\backend\\ENS492Backend\\AirQuality\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

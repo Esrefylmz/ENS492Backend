@@ -75,13 +75,20 @@ public partial class Ens4912AirqualityContext : DbContext
         {
             entity.HasKey(e => e.SoftId).HasName("PRIMARY");
 
+            entity.HasIndex(e => e.CompanyId, "CompanySensors_fk0");
+
+            entity.HasIndex(e => e.BuildingId, "fk_buildingId");
+
+            entity.HasIndex(e => e.RoomId, "fk_roomID");
+
+            entity.HasIndex(e => e.MacId, "macID_2").IsUnique();
+
             entity.Property(e => e.SoftId)
                 .HasColumnType("int(12)")
                 .HasColumnName("SoftID");
-            entity.Property(e => e.BuildingName)
-                .HasMaxLength(32)
-                .IsFixedLength()
-                .HasColumnName("buildingName");
+            entity.Property(e => e.BuildingId)
+                .HasColumnType("int(11)")
+                .HasColumnName("buildingId");
             entity.Property(e => e.CompanyId)
                 .HasColumnType("int(12)")
                 .HasColumnName("CompanyID");
@@ -90,16 +97,12 @@ public partial class Ens4912AirqualityContext : DbContext
                 .IsFixedLength()
                 .HasColumnName("locationInfo");
             entity.Property(e => e.MacId)
-                .HasMaxLength(32)
-                .IsFixedLength()
+                .HasMaxLength(50)
                 .HasColumnName("macID");
             entity.Property(e => e.RoomId)
                 .HasColumnType("int(12)")
                 .HasColumnName("roomID");
-            entity.Property(e => e.RoomName)
-                .HasMaxLength(32)
-                .IsFixedLength()
-                .HasColumnName("roomName");
+
         });
 
         modelBuilder.Entity<CompanyUser>(entity =>

@@ -6,7 +6,7 @@ namespace AirQuality.DbTransferObjects
     {
         public int SoftId { get; set; }
 
-        public string MacId { get; set; }
+        public string MacId { get; set; } = null!;
 
         public int CompanyId { get; set; }
 
@@ -14,9 +14,7 @@ namespace AirQuality.DbTransferObjects
 
         public string LocationInfo { get; set; } = null!;
 
-        public string RoomName { get; set; } = null!;
-
-        public string BuildingName { get; set; } = null!;
+        public int BuildingId { get; set; }
 
     }
 }
