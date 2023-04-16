@@ -126,7 +126,7 @@ namespace AirQuality.Controllers
             _context.CompanySensors.Add(entity);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetCompanySensorById", new { id = Sensor.SoftId }, Sensor);
+            return CreatedAtAction("PostCompanySensor", new { id = Sensor.SoftId }, Sensor);
         }
 
         // PUT api/<CompanySensorsController>/5
@@ -135,19 +135,19 @@ namespace AirQuality.Controllers
         {
             var entity = await _context.CompanySensors.FirstOrDefaultAsync(s => s.SoftId == sensor.SoftId);
 
-            entity.MacId = sensor.MacId;
+            if (entity != null)
+            {
+                // Update only the specified attributes
+                entity.BuildingId = sensor.BuildingId;
+                entity.LocationInfo = sensor.LocationInfo;
+                entity.RoomId = sensor.RoomId;
+                // Save changes to the database
+                await _context.SaveChangesAsync();
 
-            entity.CompanyId = sensor.CompanyId;
+                return HttpStatusCode.OK;
+            }
 
-            entity.RoomId = sensor.RoomId;
-
-            entity.LocationInfo = sensor.LocationInfo;
-
-            entity.BuildingId = sensor.BuildingId;
-
-
-            await _context.SaveChangesAsync();
-            return HttpStatusCode.OK;
+            return HttpStatusCode.NotFound;
         }
 
         // DELETE api/<CompanySensorsController>/5
