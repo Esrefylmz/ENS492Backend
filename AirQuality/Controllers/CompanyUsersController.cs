@@ -94,39 +94,7 @@ namespace AirQuality.Controllers
             }
         }
 
-        [HttpPost("RegisterCompanyAdminFromWeb")]
-        public async Task<CompanyUser> RegisterCompanyAdminFromWeb(CompanyUser newCompanyUser)
-        {
-            CompanyUser companyUserSearch = await _context.CompanyUsers.FirstOrDefaultAsync(s => s.Usermail == newCompanyUser.Usermail);
-
-            if (companyUserSearch == null)
-            {
-                var entity = new CompanyUser()
-                {
-                    Username = newCompanyUser.Username,
-                    Usermail = newCompanyUser.Usermail,
-                    Password = newCompanyUser.Password,
-                    UserType = "admin", 
-                    CompanyId = newCompanyUser.CompanyId,
-                };
-                _context.CompanyUsers.Add(entity);
-                await _context.SaveChangesAsync();
-
-                return await _context.CompanyUsers.Select(s => new CompanyUser
-                {
-                    UserId = s.UserId,
-                    CompanyId = s.CompanyId,
-                    Username = s.Username,
-                    Usermail = s.Usermail,
-                    Password = s.Password,
-                    UserType = s.UserType,
-                }).FirstOrDefaultAsync(s => s.Usermail == newCompanyUser.Usermail);
-            }
-            else
-            {
-                return null;
-            }
-        }
+        
         [HttpPut("ApprovePendingViewer")]
         public async Task<HttpStatusCode> ApprovePendingViewer(int userId)
         {
@@ -140,6 +108,22 @@ namespace AirQuality.Controllers
             else
             {
                 // Handle case where user with given userId and userType "pending" is not found
+                return HttpStatusCode.NotFound;
+            }
+        }
+
+        [HttpPut("PromoteViewerToAdmin")]
+        public async Task<HttpStatusCode> PromoteViewerToAdmin(int userId)
+        {
+            var entity = await _context.CompanyUsers.FirstOrDefaultAsync(s => s.UserId == userId && s.UserType == "viewer");
+            if (entity != null)
+            {
+                entity.UserType = "admin";
+                await _context.SaveChangesAsync();
+                return HttpStatusCode.OK;
+            }
+            else
+            {
                 return HttpStatusCode.NotFound;
             }
         }
