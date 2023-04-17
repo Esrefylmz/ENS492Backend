@@ -63,12 +63,30 @@ public partial class Ens4912AirqualityContext : DbContext
         {
             entity.HasKey(e => e.CompanyId).HasName("PRIMARY");
 
-            entity.HasIndex(e => e.Domain, "Domain").IsUnique();
-
             entity.Property(e => e.CompanyId)
                 .HasColumnType("int(12)")
-                .HasColumnName("companyID");
-            entity.Property(e => e.Ssid).HasColumnName("SSID");
+                .HasColumnName("companyID")
+                .IsRequired(); // Make companyID column NOT NULL
+
+            entity.Property(e => e.Name)
+                .IsRequired(); // Make Name column NOT NULL
+
+            entity.Property(e => e.Domain)
+                .HasColumnName("Domain")
+                .HasMaxLength(36); // Set maximum length for Domain column to 36 characters
+
+            entity.Property(e => e.Ssid)
+                .HasColumnName("SSID")
+                .HasMaxLength(36); // Set maximum length for SSID column to 36 characters
+
+            entity.Property(e => e.Broker)
+                .HasMaxLength(36); // Set maximum length for Broker column to 36 characters
+            
+            entity.Property(e => e.Password)
+                .HasColumnName("Password")
+                .HasMaxLength(36);
+
+            entity.HasIndex(e => e.Domain, "Domain").IsUnique();
         });
 
         modelBuilder.Entity<CompanySensor>(entity =>

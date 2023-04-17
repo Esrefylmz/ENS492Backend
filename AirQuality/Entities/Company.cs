@@ -9,10 +9,11 @@ public partial class Company
 
     public string Name { get; set; }
 
-    public string Domain { get; set; }
+    public string? Domain { get; set; }
 
-    public string Ssid { get; set; }
+    public string? Ssid { get; set; }
 
-    public string Broker { get; set; }
+    public string? Broker { get; set; }
 
+    public string? Password { get; set; }
 }
