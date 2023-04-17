@@ -282,28 +282,56 @@ public partial class Ens4912AirqualityContext : DbContext
             entity.HasIndex(e => e.MacId, "macID");
 
             entity.Property(e => e.LogId)
-                .HasColumnType("int(11)")
-                .HasColumnName("logId");
-            entity.Property(e => e.BuildingName)
-                .HasMaxLength(32)
-                .HasColumnName("buildingName");
-            entity.Property(e => e.CompanyId)
-                .HasColumnType("int(11)")
-                .HasColumnName("companyId");
-            entity.Property(e => e.LocationInfo)
-                .HasMaxLength(50)
-                .HasColumnName("locationInfo");
-            entity.Property(e => e.LogDate)
-                .HasDefaultValueSql("CURRENT_TIMESTAMP")
-                .HasColumnType("timestamp")
-                .HasColumnName("logDate");
+                .HasColumnName("logId")
+                .HasColumnType("int(12)")
+                .UseIdentityColumn()
+                .IsRequired();
             entity.Property(e => e.MacId)
-                .HasMaxLength(50)
-                .HasColumnName("macID");
+                .HasColumnName("macID")
+                .HasMaxLength(50);
             entity.Property(e => e.RoomName)
-                .HasMaxLength(32)
-                .HasColumnName("roomName");
+                .HasColumnName("roomName")
+                .HasMaxLength(32);
+            entity.Property(e => e.BuildingId)
+                .HasColumnName("buildingId")
+                .HasColumnType("int(12)");
+            entity.Property(e => e.LocationInfo)
+                .HasColumnName("locationInfo")
+                .HasMaxLength(50);
+            entity.Property(e => e.CompanyId)
+                .HasColumnName("companyId")
+                .HasColumnType("int(12)");
+            entity.Property(e => e.LogDate)
+                .HasColumnName("logDate")
+                .HasColumnType("timestamp")
+                .HasDefaultValueSql("CURRENT_TIMESTAMP")
+                .IsRequired();
+            entity.Property(e => e.UserId)
+                .HasColumnName("userId")
+                .HasColumnType("int(12)");
+            entity.Property(e => e.Username)
+                .HasColumnName("username")
+                .HasMaxLength(50);
+            entity.Property(e => e.Usermail)
+                .HasColumnName("usermail")
+                .HasMaxLength(50);
+            entity.Property(e => e.OldLocationInfo)
+                .HasColumnName("oldLocationInfo")
+                .HasMaxLength(50);
+            entity.Property(e => e.OldBuildingId)
+                .HasColumnName("oldBuildingId")
+                .HasColumnType("int(12)");
+            entity.Property(e => e.OldRoomId)
+                .HasColumnName("oldRoomId")
+                .HasColumnType("int(12)");
+            entity.Property(e => e.OldRoomName)
+                .HasColumnName("oldRoomName")
+                .HasMaxLength(32);
+            entity.Property(e => e.RoomId)
+                .HasColumnName("roomId")
+                .HasColumnType("int(12)");
         });
+
 
         OnModelCreatingPartial(modelBuilder);
     }
