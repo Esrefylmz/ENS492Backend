@@ -1,71 +1,77 @@
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using MySql.EntityFrameworkCore.Extensions;
 using MySqlConnector;
+using Microsoft.Extensions.Hosting;
+using System.Configuration;
+using Microsoft.Extensions.Configuration;
 
-
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-
-
-
-//**************************************************************************
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-
-builder.Services.AddEntityFrameworkMySQL().AddDbContext<AirQuality.Entities.Ens4912AirqualityContext>(options =>
-    {
-        options.UseMySQL(connectionString);
-    });
-
-//**************************************************************************
-
-
-
-
-builder.Services.AddCors(options =>
+namespace MyBackend
 {
-    options.AddDefaultPolicy(
-        builder =>
+
+    public class Startup
+    {
+        public IConfiguration Configuration { get; }
+
+        public Startup(IConfiguration configuration)
         {
-            builder.WithOrigins("https://localhost:7264", "http://localhost:5063", "http://localhost:8080")
+            Configuration = configuration;
+        }
+
+        public void ConfigureServices(IServiceCollection services)
+        {
+            var connectionString = Configuration.GetConnectionString("DefaultConnection");
+            services.AddEntityFrameworkMySQL().AddDbContext<AirQuality.Entities.Ens4912AirqualityContext>(options =>
+            {
+                options.UseMySQL(connectionString);
+            });
+
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(
+                    builder =>
+                    {
+                        builder.WithOrigins("https://localhost:7264", "http://localhost:5063", "http://localhost:8080")
                                 .AllowAnyHeader()
                                 .AllowAnyMethod();
-        });
-});
+                    });
+            });
 
+            services.AddControllers();
+        }
 
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
 
+            app.UseHttpsRedirection();
+            app.UseRouting();
+            app.UseCors();
+            app.UseAuthorization();
 
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
+        }
+    }
 
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            CreateHostBuilder(args).Build().Run();
+        }
 
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseUrls("http://10.51.20.243:5063");
+                    webBuilder.UseStartup<Startup>();
+                });
+    }
 }
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.UseCors(builder =>
-{
-    builder
-    .AllowAnyOrigin()
-    .AllowAnyMethod()
-    .AllowAnyHeader();
-});
-
-app.Run();
-
-
